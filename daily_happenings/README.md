@@ -1,0 +1,2 @@
+# daily_happenings
+This directory contains Jupyter Notebooks that are essentially a daily lab log. All observations, calculations, and protocols performed for this day are contained within these notebooks.
